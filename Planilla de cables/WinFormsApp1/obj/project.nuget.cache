@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4CwhN66SzKCVSOs86/5uCh6Tx7S3swBw7P/tEXK+xqEa2lFFeGZapFFPNTJzsSjjINhnXd7kxUho6E5QiVXMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JH0213\\Documents\\Planilla de cables - R02\\Planilla de cables\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JH0213\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

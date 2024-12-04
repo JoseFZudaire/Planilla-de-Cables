@@ -1,0 +1,146 @@
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\planilla_de_cables_3\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\013 - Planilla para corte de cables\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Cálculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\018 - Cálculo de longitud de cable Fábrica\1.1 - Planilla de cableado - Calculo de longitud\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #029 - Modificación de distancia entre borneras Excel cableado\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\JH0213\Documents\Planilla de cables - R02\Planilla de cables\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
